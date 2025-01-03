@@ -1,4 +1,4 @@
-# Random Forest Model Training and Prediction with GUI
+# Magic Spells Classification at LUMS AI Hackathon
 
 This project implements a Random Forest-based machine learning pipeline for training, evaluating, and predicting using coordinate data from CSV files. It includes a GUI application for predicting labels of individual files.
 
