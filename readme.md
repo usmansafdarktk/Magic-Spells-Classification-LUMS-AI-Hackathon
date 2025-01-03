@@ -27,16 +27,6 @@ This project implements a Random Forest-based machine learning pipeline for trai
 
 ---
 
-## Directory Structure
-
-project/
-├── All Data/              # Directory containing labeled CSV files for training
-├── full_data_rf_traininig.py    
-├── gui_predictions.py    # GUI application for predictions
-├── rf_all_data_model_files/  # Directory to store the model, scaler, and encoder
-├── requirements.txt    # List of dependencies
-└── README.md           # Project documentation
-
 ## Prerequisites
 
 Python 3.8 or higher
